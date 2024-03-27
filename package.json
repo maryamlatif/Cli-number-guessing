@@ -1,0 +1,21 @@
+{
+  "name": "class-online-2nd-project",
+  "version": "1.0.1",
+  "description": "This is CLI-Number Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "class-online-2nd-project": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
