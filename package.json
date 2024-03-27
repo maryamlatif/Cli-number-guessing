@@ -1,6 +1,6 @@
 {
   "name": "class-online-2nd-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is CLI-Number Guessing Game",
   "main": "index.js",
   "type": "module",
